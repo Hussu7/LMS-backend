@@ -1,0 +1,5 @@
+username: husenbasnet
+password: eFlNHgLnepw7bYff  
+connectionSrting:mongodb+srv://husenbasnet:<password>@newcluster.omtrps1.mongodb.net/?retryWrites=true&w=majority
+
+optilux keyboard
